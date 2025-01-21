@@ -10,6 +10,8 @@
 
 ### Highlithed/Recent Publications:
 
+- De Luca, P., **Jiménez-Esteve, B.**, Degenhardt, L., Schemm, S., & Pfahl, S. (2024). *Enhanced blocking frequencies in very-high resolution idealized climate model simulations*. Geophysical Research Letters, 51, e2024GL111016. https://doi.org/10.1029/2024GL111016
+
 - Weirich-Benet, E., M. Pyrina, **B. Jiménez-Esteve**, E. Fraenkel, J. Cohen, and D. I. V. Domeisen, 2023: *Subseasonal Prediction of Central European Summer Heatwaves with Linear and Random Forest Machine Learning Models*. Artif. Intell. Earth Syst., 2, e220038, https://doi.org/10.1175/AIES-D-22-0038.1.
 
 - **Jiménez-Esteve, B.**, Kornhuber, K., & Domeisen, D. I. V. (2022). *Heat extremes driven by amplification of phase-locked circumglobal waves forced by topography in an idealized atmospheric model*. Geophysical Research Letters, 49, e2021GL096337. https://doi.org/10.1029/2021GL096337
