@@ -25,6 +25,10 @@ More broadly, I am interested in how advances in **AI-based weather prediction**
 
 ## Selected / Recent Publications
 
+- **Jiménez-Esteve, B.**, Barriopedro, D., & García-Herrera, R. (2026).
+  Forecast-based attribution of extratropical cyclones using AI weather models.
+  Environmental Research: Climate, 5, 035033. https://doi.org/10.1088/2752-5295/ae714b
+  
 - Barriopedro, D., **Jiménez-Esteve, B.**, et al. (2025).  
   *A multi-method attribution analysis of Spain’s 2024 extreme precipitation event (DANA).*  
   **Bulletin of the American Meteorological Society**, early online release, BAMS-D-25-0049.1.  
